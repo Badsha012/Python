@@ -1,0 +1,6 @@
+print(False == 0)
+print(True == 1)
+print(True+True+True)
+print(False+False+False)
+print(None==0)
+print(None==0)
