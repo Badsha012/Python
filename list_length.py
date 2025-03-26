@@ -1,0 +1,2 @@
+language=['apple','ant','banana','ball','cat','dog','elephant','fish','goat','hen','icecream','joker','kite','lion','mango','nest','orange','parrot','queen','rose','sun','tiger','umbrella','van','watch','xylophone','yak','zebra']
+print(len(language))
